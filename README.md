@@ -1,2 +1,2 @@
-# get_course
+# git_course
 for elzero git course
